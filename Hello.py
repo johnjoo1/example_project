@@ -1,3 +1,3 @@
 name = raw_input("Who are you? ")
-
-print "Hello, " + name + "."
+color = raw_input("What's your favorite color?")
+print "Hello, " + name + "who likes" + color +"."
